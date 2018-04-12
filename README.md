@@ -4,3 +4,4 @@
 * npm
 * grunt
 * graphicsmagick
+* sass
